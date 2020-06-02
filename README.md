@@ -42,7 +42,7 @@
 __After downloading/cloning the repo,__
 * run `npm install` for installing all the dependencies.
 * run `npm start` and then the server will be running on `port 3000`.
-* enter `localhost:3000/${followingRoutes}` in browser.
+* enter `localhost:3000/${followingRoutes}` in postman.
 
 * server.js,
   * HTTP Server
